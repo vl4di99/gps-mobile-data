@@ -10,3 +10,5 @@ To revert the changes after this command completes, you can run the following:
 To compile and run your project in development, execute one of the following commands:
 › npm run android
 › npm run web
+
+With ESET Firewall, unlock Ports 19000,19001,19002 (for expo) and other ports for backend (ex: 5000);
